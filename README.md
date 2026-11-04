@@ -10,3 +10,4 @@ https://www.learnperf.com/
 https://images.guide/
 https://developers.google.com/web/tools/lighthouse/
 https://una.im/perf-design-wins/
+https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
